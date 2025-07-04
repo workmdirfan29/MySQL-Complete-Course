@@ -4,7 +4,7 @@ Welcome to the SQL learning repository! This document tracks your daily learning
 
 ---
 
-## Day 1: Introduction to SQL
+## 1 : Introduction to SQL
 
 - What is SQL?
 - Relational Databases Overview
@@ -14,50 +14,50 @@ Welcome to the SQL learning repository! This document tracks your daily learning
 
 ---
 
-## Day 2: Filtering and Sorting Data
+## 2 : Filtering and Sorting Data
 
 - `WHERE` clause
 - Logical Operators (`AND`, `OR`, `NOT`)
 - `ORDER BY`
 - `LIMIT`, `OFFSET`
 
-## Day 3: Functions and Expressions
+## 3 : Functions and Expressions
 
 - Aggregate Functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
 - Aliasing with `AS`
 - Arithmetic operations in `SELECT`
 
-## Day 4: Grouping Data
+## 4 : Grouping Data
 
 - `GROUP BY` and `HAVING`
 - Combining with aggregate functions
 
-## Day 5: Joins and Relationships
+## 5 : Joins and Relationships
 
 - Types of Joins: `INNER`, `LEFT`, `RIGHT`, `FULL`
 - `ON` and foreign keys
 
-## Day 6: Subqueries and Nested SELECTs
+## 6 : Subqueries and Nested SELECTs
 
 - Inline subqueries
 - `IN`, `EXISTS`
 
-## Day 7: Table Design and Constraints
+## 7 : Table Design and Constraints
 
 - `PRIMARY KEY`, `FOREIGN KEY`
 - `NOT NULL`, `UNIQUE`, `DEFAULT`, `CHECK`
 
-## Day 8: Data Manipulation
+## 8 : Data Manipulation
 
 - `UPDATE`, `DELETE`
 - Transactions: `BEGIN`, `COMMIT`, `ROLLBACK`
 
-## Day 9: Views and Indexes
+## 9 : Views and Indexes
 
 - Creating and using `VIEW`
 - Understanding `INDEX`
 
-## Day 10: Advanced SQL
+## 10 : Advanced SQL
 
 - Window Functions
 - Common Table Expressions (CTEs)
